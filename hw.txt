@@ -1,29 +1,36 @@
-﻿Python(получить 3 сертификата):
-1)https://stepik.org/course/63085/promo дедлайн 2 месяца
-2)https://www.kaggle.com/learn/intro-to-programming 
-3)https://karpov.courses/pythonzero
-4)https://ods.ai/tracks/open-ml-course (попробуй пройти)
+﻿выполненные задания переносим в Архив(внизу файла)
 
-
-git:
+Git:
 1)подписаться на коллег https://github.com/orgs/SENATOROVAI/teams/senatorov-team   +      
 2)оформить гитхаб https://www.youtube.com/watch?v=pm17VwdJ6UI  
 3)выбор шаблона https://github.com/abhisheknaiidu/awesome-github-profile-readme
 4)https://t.me/c/1937296927/3602/5714 (начать делать)
 
-Алгоритмы Теория:
-1)скачать
-https://t.me/c/1937296927/766/8001 выписать 55стр до 63 +
-
-Computer Science:
-1) компьютер сайнс пройти курс https://learn.epam.com/detailsPage?id=07464fe7-306f-4aa2-abdb-fb81ba509124 
-2) посмотреть видео https://www.youtube.com/watch?v=Wh22_O8jXVQ&list=PLIJLLSrXDPojDGKW0WZ7sU0eO3nyn0oDc  
-
 Math:
 1) пройти все разделы которые непонятны https://mathter.pro/pesochnica/index.html (фото конспекта скинуть в папку math/school_math/, в формате pdf)
-2) https://t.me/c/1937296927/888/5238 Пройти весь марафон, только EASY (фото конспекта скинуть в папку math\school_math\Marathon, в формате pdf) ищешь по хэштегу с #day1 по #day20
-3) https://lab.karpov.courses/learning/253/module/2697/ (секция матан) ознакомиться
-                                                                        
+==================================
+linal:
+1) сделать всё до 65стр https://t.me/SenatorovBootcamp/888/8313 (фото конспекта скинуть в папку math/anal_geom/, в формате pdf)
+
+02/01
+1) теория, векторная алгебра https://t.me/c/1937296927/888/8330
+2) теория, линейная алгебра http://old.inm.ras.ru/library/Tyrtyshnikov/all.pdf
+3) практика векторная алгебра(numpy) https://stepik.org/course/172781/syllabus
+4) практика векторная алгебра(numpy) https://stepik.org/course/4940/promo
+5) карпов https://lab.karpov.courses/learning/253/module/2697/
+6) форкнуть и проработать каждую строку https://www.kaggle.com/code/sokolovaleks/100-numpy-exercises-rus-version
+7) практика векторная алгебра (EN) https://stepik.org/course/79/syllabus
+
+ютуб:
+1.1) линал для чайников https://www.youtube.com/playlist?list=PLVjLpKXnAGLXPaS7FRBjd5yZeXwJxZil2
+1.2) линал в matlab https://www.youtube.com/playlist?list=PLmu_y3-DV2_kkWhk2mK0opp7ma8mSS3xf
+==================================
+Calculus:
+1) https://www.lektorium.tv/matematicheskij-analiz 
+1.1) https://stepik.org/course/716/syllabus 
+1.2) https://stepik.org/course/711/syllabus
+1.1-1.2 - это альтернатива 1 пункту.
+2) https://lab.karpov.courses/learning/253/ секция матан 1
 
 1) выполнить\Math\calculus\01
 сохранить фото из тетради в \Math\calculus\01\limit.pdf
@@ -36,6 +43,18 @@ Math:
 
 3) Math\calculus\hw\03
 результат сохранить в \Math\calculus\03\limit.pdf
+==================================
+
+Python (получить сертификат):
+1)https://karpov.courses/pythonzero
+2)https://stepik.org/course/63085/promo
+3)https://www.kaggle.com/learn/intro-to-programming
+==================================
+Алгоритмы (выполнить):
+1)https://codeforces.com/problemset/problem/4/A 
+2)https://leetcode.com/problems/palindrome-number/
+3)переписать в тетрадь
+https://t.me/SenatorovBootcamp/766/8001 выписать 55стр до 70
 
 1 задача в день: 
 https://codeforces.com/problemset?order=BY_RATING_ASC&tags=math
@@ -47,7 +66,19 @@ https://codeforces.com/problemset?order=BY_RATING_ASC&tags=math
  
 и вставляешь себе в алгоритмы Algorithms\codeforces.ipynb, потом проводишь разбор кода 
 и так дальше по другим задачам.
+==================================
+                                                                        
+Computer Science:
+1) компьютер сайнс пройти курс https://learn.epam.com/detailsPage?id=07464fe7-306f-4aa2-abdb-fb81ba509124 
+2) посмотреть видео https://www.youtube.com/watch?v=Wh22_O8jXVQ&list=PLIJLLSrXDPojDGKW0WZ7sU0eO3nyn0oDc  Done!
 
 
+
+
+==================================
+==================================
+Архив:
+
+Python:
 
 
