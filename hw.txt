@@ -7,6 +7,13 @@ Math(school):
 1) пройти все разделы которые непонятны https://mathter.pro/pesochnica/index.html (фото конспекта скинуть в папку math/school_math/, в формате pdf)
 2) экспресс курс по школьной математике, 2 лучших учебника \Math\school_theory
 ==================================
+Statistics:
+1)https://www.lektorium.tv/probability-statistics
+2)https://www.lektorium.tv/probability-statistics-8
+3)https://www.lektorium.tv/probability-statistics-9
+4)https://stepik.org/course/76/syllabus
+5)https://stepik.org/course/524/syllabus
+
 Calculus:
 
 Теория(книга - для хардкорщиков): 
