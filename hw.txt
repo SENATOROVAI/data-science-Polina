@@ -8,6 +8,7 @@ Math(school):
 2) экспресс курс по школьной математике, 2 лучших учебника \Math\school_theory
 ==================================
 Statistics:
+0)https://www.litres.ru/gettrial/?art=28731109&format=a4.pdf&lfrom=1021453250 статистика и котики
 1)https://www.lektorium.tv/probability-statistics
 2)https://www.lektorium.tv/probability-statistics-8
 3)https://www.lektorium.tv/probability-statistics-9
